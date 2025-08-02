@@ -12,7 +12,7 @@
 _Get started using GitHub in less than an hour._
 
 </header>
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
